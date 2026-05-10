@@ -30,11 +30,7 @@ links:
     url: mailto:felipe.oliveiras2000@gmail.com
     label: E-mail Me
 
-interests:
-  - Large Language Models
-  - MLOps & Production ML
-  - Deep Learning
-  - Recommender Systems
+interests: []
 
 education:
   - degree: BS Computer Science
