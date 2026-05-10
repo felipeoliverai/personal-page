@@ -1,0 +1,82 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Felipe Oliveira
+  given: Felipe
+  family: Oliveira
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+status:
+  icon: "🤖"
+role: Senior Machine Learning Engineer
+bio: |
+  I build production machine learning systems — from data pipelines and model
+  training to deployment and monitoring. I'm passionate about turning research
+  into reliable, scalable products that solve real-world problems.
+
+affiliations: []
+
+links:
+  - icon: brands/x
+    url: https://x.com/FelipeOliverAI
+  - icon: brands/github
+    url: https://github.com/felipeoliverai
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/felipe-oliveira-18a573189/
+  - icon: at-symbol
+    url: mailto:felipe.oliveiras2000@gmail.com
+    label: E-mail Me
+
+interests:
+  - Large Language Models
+  - MLOps & Production ML
+  - Deep Learning
+  - Recommender Systems
+
+education:
+  - degree: BS Computer Science
+    institution: FIAP
+    start: 2018-01-01
+    end: 2021-12-31
+
+experience:
+  - role: Senior Machine Learning Engineer
+    org: TODO — Add your current company
+    start: 2024-01-01
+    summary: |
+      TODO — Describe your current role and impact.
+
+skills:
+  - name: Machine Learning
+    items:
+      - label: Python
+        level: 5
+      - label: PyTorch
+        level: 5
+      - label: TensorFlow
+        level: 4
+      - label: scikit-learn
+        level: 5
+  - name: MLOps & Infrastructure
+    items:
+      - label: Docker
+        level: 5
+      - label: Kubernetes
+        level: 4
+      - label: AWS / GCP
+        level: 4
+      - label: MLflow / Kubeflow
+        level: 4
+
+languages:
+  - name: Portuguese
+    level: 5
+    label: Native
+  - name: English
+    level: 5
+    label: Fluent
+
+awards: []
