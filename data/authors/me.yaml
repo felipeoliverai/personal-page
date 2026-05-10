@@ -10,7 +10,7 @@ name:
   pronouns: he/him
 postnominals: []
 status:
-  icon: "🤖"
+  icon: ""
 role: Senior Machine Learning Engineer
 bio: |
   I build production machine learning systems — from data pipelines and model
