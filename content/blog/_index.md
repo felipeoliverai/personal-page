@@ -9,4 +9,8 @@ view: card
 banner:
   caption: ''
   image: ''
+
+# Cascade: every blog post gets these by default.
+cascade:
+  commentable: true
 ---
