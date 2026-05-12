@@ -1,0 +1,8 @@
+/* Local overrides for theme block styling.
+   Auto-discovered via `css/hbx/blocks/shared/**/*.css` glob in theme css.html. */
+
+/* Reduce role/title size in resume-biography-3 block (was text-2xl = 1.5rem). */
+.resume-biography p.text-2xl.font-semibold {
+  font-size: 1.125rem;   /* text-lg */
+  line-height: 1.75rem;
+}
